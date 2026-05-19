@@ -185,7 +185,7 @@ As a **Lead QA Engineer**, responsibilities included:
 
 # 💡 Engineering Philosophy
 
-> “Automation is not just about execution — it’s about building confidence, scalability, and faster delivery.”
+> “Automation is not just about execution - it’s about building confidence, scalability, and faster delivery.”
 
 ---
 
